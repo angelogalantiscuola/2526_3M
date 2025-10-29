@@ -1,1 +1,2 @@
-es13_sol.py
+git config --global user.email "angelo.galanti@isissgobetti.it"
+git config --global user.name "Angelo Galanti"
