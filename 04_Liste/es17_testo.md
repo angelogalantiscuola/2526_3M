@@ -1,3 +1,18 @@
+# Esercizio 17: Stringa più lunga
+
+## Obiettivo
+Scrivere un programma Python che chieda all'utente quante stringhe vuole inserire, legga le stringhe una per una e determini quale sia la più lunga.
+
+## Istruzioni
+1. Richiedere all'utente di inserire il numero di stringhe da considerare (intero non negativo).
+2. Se l'input non è un intero valido o è negativo, stampare un messaggio di errore.
+3. Utilizzare un ciclo per leggere ciascuna stringa e tenere traccia della stringa con lunghezza massima.
+4. Al termine, stampare la stringa più lunga e la sua lunghezza.
+
+## Esempio
+Input: 3; inserisci: "ciao", "buongiorno", "ok"
+Output: La stringa più lunga è: 'buongiorno' con 10 caratteri
+
 # Esercizio 17: Numero più frequente (moda semplice)
 
 ## Obiettivo
