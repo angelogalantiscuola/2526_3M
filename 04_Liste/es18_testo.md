@@ -17,4 +17,4 @@ Scrivere un programma Python che chieda all'utente il numero N di stringhe da in
 Per N=3, X=3, stringhe: "a", "abcd", "efghi"  
 Stringhe filtrate: "abcd" (lunghezza 4), "efghi" (lunghezza 5)  
 Numero: 2  
-Lunghezza media: (4 + 5) / 2 = 4.5</content>
+Lunghezza media: (4 + 5) / 2 = 4.5
