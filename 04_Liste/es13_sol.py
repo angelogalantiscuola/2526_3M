@@ -10,7 +10,7 @@ def main() -> None:
 
     # INPUT 2. Utilizzare un ciclo per leggere ciascun numero dall'utente e aggiungerlo a una lista vuota (inizializzata come `numeri = []`).
     la_mia_lista: list[int] = []
-    for n in range(numero_valori):
+    for _ in range(numero_valori):
         numero_inserito: int = int(input("Inserisci un numero: "))
         la_mia_lista.append(numero_inserito)
     print(f"Controllo la lista {la_mia_lista}")
@@ -23,6 +23,8 @@ def main() -> None:
     print(f"La somma dei numeri inseriti vale: {somma}")
     if numero_valori != 0:
         media: float = somma / numero_valori
+    else:
+        media: float = 0.0
     
     # OUTPUT 4. Gestire il caso in cui la lista sia vuota (numero di valori = 0), stampando un messaggio di errore.
     if la_mia_lista == []:
