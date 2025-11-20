@@ -12,6 +12,8 @@ Usa `print(1, end=" ")` per stampare i numeri senza andare a capo, e `print()` p
 
 ## Esempio
 Per n=3, m=4:
+```
 1 1 1 1
 1 1 1 1
 1 1 1 1
+```
