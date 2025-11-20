@@ -9,6 +9,8 @@ Scrivere un programma Python che chieda all'utente di inserire il numero di righ
 
 ## Esempio
 Per n=3, m=4:
+```
 0 1 2 3
 1 2 3 4
 2 3 4 5
+```
