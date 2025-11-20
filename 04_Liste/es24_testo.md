@@ -1,12 +1,14 @@
-# Esercizio 24: Creazione e stampa di una matrice di 1
+# Esercizio 24: Creazione e stampa di una tabella di 1
 
 ## Obiettivo
-Scrivere un programma Python che chieda all'utente di inserire il numero di righe (n) e colonne (m), crei una matrice (lista di liste) riempita con il valore 1, e la stampi riga per riga.
+Scrivere un programma Python che chieda all'utente di inserire il numero di righe (n) e colonne (m), e stampi una tabella di 1 di dimensioni n x m.
 
 ## Istruzioni
 1. Richiedere all'utente di inserire n (numero di righe) e m (numero di colonne), entrambi interi positivi.
-2. Creare una matrice come lista di liste, dove ogni elemento è 1.
-3. Stampare la matrice, con ogni riga su una linea separata e gli elementi separati da spazi.
+2. Stampare la tabella, con ogni riga su una linea separata e gli elementi separati da spazi.
+
+## Suggerimento
+Usa `print(1, end=" ")` per stampare i numeri senza andare a capo, e `print()` per andare a capo dopo ogni riga.
 
 ## Esempio
 Per n=3, m=4:
