@@ -11,5 +11,5 @@ Nota: Puoi usare un ciclo per scorrere il dizionario e variabili per tenere trac
 
 Esempio di output:
 ```
-Il giocatore con il punteggio più alto è Mario con 95 punti.
+Il giocatore con il punteggio più alto è Giulia con 95 punti.
 ```
