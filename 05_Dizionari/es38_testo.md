@@ -6,6 +6,27 @@ Scrivi un programma Python che:
 2. Aggiungi almeno 2 aziende con i loro dipendenti.
 3. Per ogni azienda, stampa il nome dell'azienda, il settore, e i nomi e ruoli dei suoi dipendenti.
 
+```python
+    aziende = [
+        {
+            "nome": "TechCorp",
+            "settore": "Tecnologia",
+            "dipendenti": [
+                {"nome": "Mario", "età": 30, "ruolo": "Sviluppatore"},
+                {"nome": "Luca", "età": 25, "ruolo": "Designer"},
+            ],
+        },
+        {
+            "nome": "FoodInc",
+            "settore": "Alimentare",
+            "dipendenti": [
+                {"nome": "Anna", "età": 35, "ruolo": "Manager"},
+                {"nome": "Giovanni", "età": 28, "ruolo": "Cuoco"},
+            ],
+        },
+    ]
+```
+
 Esempio di output:
 ```
 Azienda: TechCorp, Settore: Tecnologia
