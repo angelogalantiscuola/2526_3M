@@ -18,4 +18,4 @@ Per ciascun prodotto, esegui le seguenti operazioni usando cicli:
 Stampa i risultati per ogni prodotto.
 
 **Esempio di output:**
-Prodotto: Mela, Totale: 15.00 € (sconto 0%), Inizia con 'M': True, Conteggio 'a': 1
+Prodotto: Mela, Totale: 13.50 € (sconto 10%), Inizia con 'M': True, Conteggio 'a': 1

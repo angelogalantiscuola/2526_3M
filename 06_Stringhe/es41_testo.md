@@ -3,7 +3,6 @@
 Scrivi un programma che analizzi un testo inserito dall'utente. Usa cicli e dizionari per:
 
 - **Metodi stringa**: Conta caratteri totali, parole e frasi.
-- **Dizionari**: Calcola frequenza delle lettere (ignorando maiuscole).
 - **Formattazione/Escape**: Stampa risultati con tab e newline.
 
 **Esempio di input/output:**
