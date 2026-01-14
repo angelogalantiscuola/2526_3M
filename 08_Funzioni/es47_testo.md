@@ -1,4 +1,4 @@
-# Esercizio 43: Calcolatrice modulare
+# Esercizio 47: Calcolatrice modulare
 
 ## Obiettivo
 Creare una calcolatrice semplice usando l'approccio modulare con funzioni.

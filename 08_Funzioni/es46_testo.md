@@ -1,4 +1,4 @@
-# Esercizio 39: Funzione per calcolare l'area di un triangolo
+# Esercizio 46: Funzione per calcolare l'area di un triangolo
 
 ## Obiettivo
 Creare una funzione che calcola l'area di un triangolo dati base e altezza.

@@ -1,4 +1,4 @@
-# Esercizio 47: Input Valido
+# Esercizio 44: Input Valido
 
 ## Obiettivo
 Scrivere un programma che chieda all'utente di inserire un numero positivo e intero, ripetendo la richiesta finché non viene fornito un input valido.

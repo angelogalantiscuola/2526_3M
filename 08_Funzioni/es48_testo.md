@@ -1,4 +1,4 @@
-# Esercizio 41: Calcolo del fattoriale con ricorsione
+# Esercizio 48: Calcolo del fattoriale con ricorsione
 
 ## Obiettivo
 Creare una funzione ricorsiva che calcola il fattoriale di un numero.
