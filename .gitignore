@@ -1,4 +1,11 @@
 .ruff_cache/
 _hidden/
+*.pyc
 3m-classroom
 es49_sol.py
+es50_sol.py
+es51_sol.py
+es52_sol.py
+es53_sol.py
+es54_sol.py
+es55_sol.py
