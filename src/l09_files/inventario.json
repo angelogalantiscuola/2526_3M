@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Mela",
+        "categoria": "Frutta",
+        "prezzo": 2.5,
+        "quantita": 10
+    },
+    {
+        "nome": "Pane",
+        "categoria": "Pane",
+        "prezzo": 1.0,
+        "quantita": 5
+    },
+    {
+        "nome": "Banana",
+        "categoria": "Frutta",
+        "prezzo": 1.8,
+        "quantita": 8
+    }
+]
