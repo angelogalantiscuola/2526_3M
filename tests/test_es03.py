@@ -1,4 +1,4 @@
-from src.l01_input_output.es03_reference import main
+from src.l01_input_output.es03_student import main
 
 def test_numero_10(monkeypatch, capsys):
     inputs = iter(['10'])
